@@ -187,3 +187,18 @@ html {
 }
 
 /*cardapio*/
+
+.cardapio {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(12, 12, 12, 0.5);
+}
+
+.cardapio h2 {
+    font-size: 3.5rem;
+    color: rgb(216, 221, 221);
+    text-transform: uppercase;
+}
